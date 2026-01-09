@@ -1,1 +1,0 @@
-[stand meter det_conf=0.76 box=(980,1546,1598,1744)] OCR='02840'
